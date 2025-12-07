@@ -29,4 +29,5 @@ public class Vehiculo {
 
     @Column(name = "color_Vehiculo", nullable = false, length = 100)
     private String colorVehiculo;
+
 }
